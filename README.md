@@ -1,5 +1,4 @@
 # FedesoftFULLSTACK
-Actividades Fullstack
 
 ACTIVIDADES REALIZADAS DURANTE EL CURSO DE FULLSTACK
 =======
